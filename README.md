@@ -2,7 +2,10 @@
 
 <h2>I'm Pankaj Kasotiya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-## I'm a Full Stack Web Developer
+### 💻 I'm a Developer from Jodhpur,India who loves to code. 
+> ( Software Developer | Full Stack Web | MEARN Stack )
+> 📚 #Angular, #Node, #Python, #React, #SoftwareDevelopment
+
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
