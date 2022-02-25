@@ -4,6 +4,11 @@
 
 > (📚 Software Developer | Full Stack Web | MEARN Stack )
 
+### Connect with me
+[<img align="left" alt="LinkedIn" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]( http://www.linkedin.com/in/pankajkasotiya0213)
+<br />
+
+
 <!-- ### 💻 I'm a Developer from Jodhpur,India who loves to code. -->
 
 <br/>
