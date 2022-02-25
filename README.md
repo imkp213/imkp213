@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hi there 👋 I'm Pankaj Kasotiya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-## I'm Pankaj Kasotiya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-> (📚 Software Developer | Full Stack Web | MEARN Stack )
+
+<img src="https://raw.githubusercontent.com/imkp213/imkp213/main/banner.png" alt="banner that says Pankaj Kasotiya - software engineer, content creator in Full stack Web development">
 
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]( http://www.linkedin.com/in/pankajkasotiya0213)
